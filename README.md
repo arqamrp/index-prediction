@@ -14,7 +14,7 @@ python3 210194_Arqam.py
 
 ## Regressors:
 ### Statistical
-CatBoost, LGBM,** Linear Regression**, Ridge
+CatBoost, LGBM, **Linear Regression**, Ridge
 ### Deep learning
 LSTMs, State space models ([SpaceTime](https://github.com/HazyResearch/spacetime))
 
